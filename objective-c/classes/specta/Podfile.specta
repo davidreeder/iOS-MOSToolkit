@@ -1,0 +1,14 @@
+#
+# Podfile for Specta
+#
+
+target :TARGETTests do
+  pod 'Specta'
+  pod 'Expecta'
+  pod 'OCMock'
+
+  # pod 'OCHamcrest'
+  # pod 'OCMockito'
+  # pod 'LRMocky'
+end
+
